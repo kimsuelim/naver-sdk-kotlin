@@ -10,6 +10,6 @@ All notable changes to this project will be documented in this file.
 ## [0.1.0] - 2017-07-09
 - first release
 
-[0.1.0]: https://github.com/kimsuelim/naver-sdk-kotlin/releases/tag/v0.1.0
-[0.2.0]: https://github.com/kimsuelim/naver-sdk-kotlin/releases/tag/v0.2.0
-[unreleased]: https://github.com/kimsuelim/naver-sdk-kotlin/compare/v0.2.0...HEAD
+[0.1.0]: https://github.com/kimsuelim/naver-sdk-kotlin/releases/tag/0.1.0
+[0.2.0]: https://github.com/kimsuelim/naver-sdk-kotlin/compare/0.1.0...0.2.0
+[unreleased]: https://github.com/kimsuelim/naver-sdk-kotlin/compare/0.2.0...HEAD
