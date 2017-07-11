@@ -10,7 +10,7 @@
 * [네이버 개발자 센터](https://developers.naver.com)
 * [API 문서](https://developers.naver.com/docs/common/openapiguide/)
 * [Changelog](https://github.com/kimsuelim/naver-sdk-kotlin/blob/master/CHANGELOG.md)
-* [naver-sdk-ruby](https://github.com/kimsuelim/naver-sdk-ruby)
+* [네이버 루비 SDK](https://github.com/kimsuelim/naver-sdk-ruby)
 
 ## Installation
 You should be using jCenter() as a repository for your libraries, if not, add this to your main build.gradle:
